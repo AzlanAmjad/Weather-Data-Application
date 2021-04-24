@@ -5,4 +5,4 @@ This project aims to provide introductory experience with designing and developi
 Run main.pde using the Processing 3 Integrated Development Environment.
 
 ## Preview
-![Preview](images/preview)
+![Preview](images/preview.png)
